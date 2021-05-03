@@ -1,3 +1,3 @@
-# Camp Work Day 2.1
+# Camp Site Exampole Backend
 
 - Qualified software developer training camp 2nd day's homework.
